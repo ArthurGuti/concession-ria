@@ -26,8 +26,8 @@
 
 # 📸 Preview
 
-(📌 Adicione aqui futuramente uma imagem ou vídeo do site rodando)  
-Você também pode publicar o projeto no GitHub Pages e colar o link aqui.
+(📌 Adicionar aqui futuramente uma imagem ou vídeo do site rodando)  
+Publicar o projeto no GitHub Pages e colar o link aqui.
 
 ---
 
@@ -43,11 +43,11 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 # 🧑‍💻 Author
 <a href="https://github.com/ArthurGuti/">
-<div style="border-radius: 25%;">
-  <img src="https://github.com/ArthurGuti/React-Native-Fullstack/assets/131212175/c700239d-1d33-4e41-a4cb-2ccd2baf468b" width="100px" style="border-radius: 50%" alt="Imagem perfil Arthur Gutierrez"/>
-</div>
- <br/>
- <sub><b>Arthur Gutierrez</b></sub>
+  <div style="border-radius: 25%;">
+    <img src="https://github.com/ArthurGuti/React-Native-Fullstack/assets/131212175/c700239d-1d33-4e41-a4cb-2ccd2baf468b" width="100px" style="border-radius: 50%" alt="Imagem perfil Arthur Gutierrez"/>
+  </div>
+  <br/>
+  <sub><b>Arthur Gutierrez</b></sub>
 </a> <a href="https://www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110" title="Linkedin">🚀</a><br/>
 Feito com dedicação por Arthur Gutierrez 👋🏽 Entre em contato!
 
