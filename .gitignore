@@ -1,13 +1,13 @@
-# Ignore arquivos do sistema
+# Sistema
 .DS_Store
 Thumbs.db
 
-# Ignore pastas do VSCode
+# VSCode
 .vscode/
 
-# Ignore node_modules (caso tenha)
+# Node (se usar no futuro)
 node_modules/
 
-# Ignore arquivos temporários
+# Logs e arquivos temporários
 *.log
 *.tmp
