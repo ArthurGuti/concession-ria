@@ -1,0 +1,62 @@
+# Node stuff (caso use no futuro)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Angular stuff (se por acaso usar)
+.angular/
+out-tsc/
+coverage/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do VSCode e IDEs
+.vscode/
+.idea/
+
+# Windows cache e configs
+desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Arquivos daemon, cache e configs aleatórias
+*.pid
+*.pid.lock
+*.seed
+*.pid.lock
+*.pid
+*.pid.lock
+*.pid
+
+# Configurações e caches do Docker e sistema
+*.sock
+*.sock.lock
+
+# Configs específicas que você citou:
+embedding_data/
+daemon.json
+windows-daemon/
+
+# Qualquer pasta ou arquivo que começa com ponto, pra evitar configs locais
+# .*
+
+# Ignore tudo que não for pasta assets, index.html e arquivos dentro assets
+# Pra garantir que só seu projeto suba:
+# (deixe só essas pastas e arquivos)
+# *
+!assets/
+!assets/css/
+!assets/css/style.css
+!assets/js/
+!assets/js/script.js
+!assets/images/
+!index.html
