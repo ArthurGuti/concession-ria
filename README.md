@@ -14,7 +14,7 @@
 
 ---
 
-# ✅ Features
+#  Features ✅
 
 - [x] Landing page com layout moderno
 - [x] Responsividade para dispositivos móveis
@@ -24,14 +24,14 @@
 
 ---
 
-# 📸 Preview
+#  Preview 📸
 
 (📌 Adicionar aqui futuramente uma imagem ou vídeo do site rodando)  
 Publicar o projeto no GitHub Pages e colar o link aqui.
 
 ---
 
-# 🛠 Technologies
+#  Technologies 🛠
 
 As seguintes tecnologias foram utilizadas na construção do projeto:
 
@@ -41,7 +41,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ---
 
-# 🧑‍💻 Author
+#  Author 🧑‍💻
 <a href="https://github.com/ArthurGuti/">
   <div style="border-radius: 25%;">
     <img src="https://avatars.githubusercontent.com/u/131212175?s=400&u=fa66722328446c1de5847e9c46cf27e9abc3928d&v=4" width="100px" style="border-radius: 50%" alt="Imagem perfil Arthur Gutierrez"/>
