@@ -48,7 +48,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
   </div>
   <br/>
   <sub><b>Arthur Gutierrez</b></sub>
-</a> <a href="https://www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110" title="Linkedin">🚀</a><br/>
+</a> <a href="www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110" title="Linkedin">🚀</a><br/>
 Feito com dedicação por Arthur Gutierrez 👋🏽 Entre em contato!
 
 <br/>
