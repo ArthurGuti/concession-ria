@@ -9,6 +9,7 @@
   <a href="#features"> 👉 Features</a> •
  <a href="#preview"> 👉 Preview</a> • 
  <a href="#technologies"> 👉 Technologies</a> • 
+ <a href="#technologies"> 👉 Learn-More</a> • 
  <a href="#author">👉 Author</a>
 </p>
 
